@@ -13,5 +13,3 @@ Este repositório contém um projeto de calculadora desenvolvido em Python utili
   - Porcentagem (`%`)
 - Limpeza rápida da tela de cálculo.
 - Avaliação de expressões matemáticas inseridas.
-
-## 🚀 Começando
